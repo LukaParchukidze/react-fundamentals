@@ -12,6 +12,6 @@ I have no authority over the course itself and I do not guarantee that the mater
 
 ## License
 
-android-development is licensed under the MIT License:
+react-fundamentals is licensed under the MIT License:
 
 - MIT License ([LICENSE](https://github.com/LukaParchukidze/react-fundamentals/blob/master/LICENSE "Copy of the MIT license"))
