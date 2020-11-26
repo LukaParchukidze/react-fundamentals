@@ -1,0 +1,11 @@
+$linkColor: red;
+$navBorderStyle: dashed;
+
+.nav {
+  border-style: $navBorderStyle;
+
+  .link {
+    margin: 24px;
+    color: $linkColor;
+  }
+}
